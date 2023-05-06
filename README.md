@@ -1,5 +1,5 @@
-# apa-shiken-quiz
-apa-shiken-quiz for self test purpose(IPA試験勉強のためテストwebアプリ,reactjs勉強も兼ねて)
+# ipa-shiken-quiz
+ipa-shiken-quiz for self test purpose(IPA試験勉強のためテストwebアプリ,reactjs勉強も兼ねて)
 
 ### api Data from json file api
 
