@@ -3,7 +3,7 @@ apa-shiken-quiz for self test purpose(IPA試験勉強のためテストwebアプ
 
 ### api Data from json file api
 
- [app data api](https://github.com/passionofvc/nodejs-rest-api-example).
+ [https://github.com/passionofvc/nodejs-rest-api-example](https://github.com/passionofvc/nodejs-rest-api-example).
 
 # Getting Started with Create React Header
 
